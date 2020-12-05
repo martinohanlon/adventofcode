@@ -1,5 +1,3 @@
-seat_code = "BBFFBBFRLL"
-
 def get_seat(seat_code):
 
     row_bounds = [0,127]
